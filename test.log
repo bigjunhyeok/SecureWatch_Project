@@ -13,3 +13,7 @@ authentication failure for user root
 authentication failure for user root
 authentication failure for user root
 Failed password for invalid user test from 10.0.0.3 port 22 ssh2
+Invalid user admin from 192.168.1.1
+Invalid user admin from 192.168.1.1
+Invalid user admin from 192.168.1.1
+authentication failure for user root
